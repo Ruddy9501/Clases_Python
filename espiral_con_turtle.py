@@ -2,7 +2,7 @@
 from turtle import *
 
 # pintamos el color de fondo de negro
-bgcolor('black')
+#bgcolor('black')
 # Aumentamos el grosor de la tortuga utilizado para pintar 
 width(2)
 # Aumentamos la velocidad de la animación de la tortuga
@@ -10,7 +10,7 @@ speed(10)
 
 def espiral():
     # Creamos un arreglo con los valores de los colores que empezará la tortuga
-    colores = ['white', 'pink', 'cyan']
+    colores = ['blue', 'pink', 'cyan']
     # Creamos la variable contadora y la inicializamos con valor cero 
     contador = 0
     # El ciclo se repite mientras el valor del contador sea menor que 300 
