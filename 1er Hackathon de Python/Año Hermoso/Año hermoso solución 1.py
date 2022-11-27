@@ -1,19 +1,6 @@
-def f(n):
-    
-    d = []
-    while n > 0:
-        d.append(n%10)
-        n //= 10
-    
-    if len(d) == len(set(d)):
-        return True
-    else:
-        return False
-    
-
 n = int(input())
-
-while (f(n + 1) == False):
+ 
+while (len(set(list(str(n + 1)))) != len(list(str(n + 1)))):
        n += 1
        
 print(n+1)
