@@ -1,6 +1,6 @@
 # Programación_Competitiva_en_Python
 
-## [Contenido del Curso](Programación_Competitiva_en_Python/Agenda.md)
+## [Contenido del Curso](Agenda.md)
 
 [Python](https://es.wikipedia.org/wiki/Python) es uno de los [lenguajes de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n) más versátiles que existen, puede ser usado en muchos campos diferentes. Es decir, permite programar **desde videojuegos hasta aplicaciones móviles** y es muy fácil de aprender.
 
