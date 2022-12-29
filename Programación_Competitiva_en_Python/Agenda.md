@@ -1,8 +1,8 @@
 ### Agenda
 
 
-1.	[Números y operaciones aritméticas elementales](https://github.com/RuddyGuerrero/Clases_Python/blob/acb3d9dcbb2688f9d8ca3c5faca422affad4dcb5/Gu%C3%ADa_Programaci%C3%B3n_Competitiva/N%C3%BAmeros%20y%20operaciones%20aritm%C3%A9ticas%20elementales/N%C3%BAmeros_y_operaciones_aritm%C3%A9ticas_elementales.ipynb).\\
-    a.  Cociente y resto de una división\\
+1.	[Números y operaciones aritméticas elementales](https://github.com/RuddyGuerrero/Clases_Python/blob/acb3d9dcbb2688f9d8ca3c5faca422affad4dcb5/Gu%C3%ADa_Programaci%C3%B3n_Competitiva/N%C3%BAmeros%20y%20operaciones%20aritm%C3%A9ticas%20elementales/N%C3%BAmeros_y_operaciones_aritm%C3%A9ticas_elementales.ipynb).//
+    a.  Cociente y resto de una división//
     b.	Potencias y raíces\\
     c.	Redondear un número\\
     d.	Redondear al entero anterior o posterior\\
