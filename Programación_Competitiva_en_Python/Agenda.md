@@ -10,7 +10,7 @@
     *  Otras funciones integradas en Python.
     *  Ejercicios propuestos en HackerRank.
 
-2.	[Ciclos for y while](https://github.com/RuddyGuerrero/Clases_Python/blob/f32e1bbab4af0c695062af78d552dafbaccd27c8/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/2.%20Ciclos_for_y_while.ipynb):
+2.	[Ciclos for y while](Programación_Competitiva_en_Python/Lecciones/2. Ciclos_for_y_while.ipynb):
 
     *  Sintaxis. 
     *  Tratamiento de listas de datos.
@@ -20,7 +20,7 @@
     *  Uso del break y continue. 
     *  Ejercicios propuestos en HackerRank
 
-3.	[Trabajo con listas](https://github.com/RuddyGuerrero/Clases_Python/blob/f32e1bbab4af0c695062af78d552dafbaccd27c8/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/3.%20Trabajo_con_listas.ipynb) 
+3.	[Trabajo con listas](Programación_Competitiva_en_Python/Lecciones/3. Trabajo_con_listas.ipynb) 
 
     *  Listas unidimensionales. 
     *  Listas bidimensionales.
