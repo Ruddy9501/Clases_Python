@@ -12,28 +12,19 @@
 
 2.	[Ciclos for y while](https://github.com/RuddyGuerrero/Clases_Python/blob/f32e1bbab4af0c695062af78d552dafbaccd27c8/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/2.%20Ciclos_for_y_while.ipynb):
 
-    a.	Sintaxis. 
-
-    b.	Tratamiento de listas de datos.
-
-    c.	Verificar propiedades dentro de un rango de números.
-
-    d.	Utilización de elementos acumuladores.
-
-    e.	Ciclos anidados.
-
-    f.	Uso del break y continue. 
-
-    g.	Ejercicios propuestos en HackerRank
+    *  Sintaxis. 
+    *  Tratamiento de listas de datos.
+    *  Verificar propiedades dentro de un rango de números.
+    *  Utilización de elementos acumuladores.
+    *  Ciclos anidados.
+    *  Uso del break y continue. 
+    *  Ejercicios propuestos en HackerRank
 
 3.	[Trabajo con listas](https://github.com/RuddyGuerrero/Clases_Python/blob/f32e1bbab4af0c695062af78d552dafbaccd27c8/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/3.%20Trabajo_con_listas.ipynb) 
 
-    a.	Listas unidimensionales. 
-
-    b.	Listas bidimensionales.
-
-    c.	Matrices y operaciones con matrices.
-
-    d.	Ejercicios propuestos en HackerRank
+    *  Listas unidimensionales. 
+    *  Listas bidimensionales.
+    *  Matrices y operaciones con matrices.
+    *  Ejercicios propuestos en HackerRank
 
 4.	Cuarto día resolución de dudas y upsolving de problemas en HackerRank que hayan quedado de los tres días anteriores.
