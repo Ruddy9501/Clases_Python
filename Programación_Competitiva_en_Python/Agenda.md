@@ -12,12 +12,10 @@
 
 2.	[Ciclos for y while](https://github.com/RuddyGuerrero/Clases_Python/blob/c81dbb42a012f5f7e939174bed9603620adda7c0/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/2.%20Ciclos_for_y_while.ipynb):
 
-    *  Sintaxis. 
-    *  Tratamiento de listas de datos.
-    *  Verificar propiedades dentro de un rango de números.
-    *  Utilización de elementos acumuladores.
-    *  Ciclos anidados.
-    *  Uso del break y continue. 
+    *  Sintaxis ciclo for.
+    *  Cilco for y la clase range.
+    *  Ciclo for y uso del break y continue.
+    *  Ciclo for y sentencia else
     *  Ejercicios propuestos en HackerRank
 
 3.  [Trabajo con listas](https://github.com/RuddyGuerrero/Clases_Python/blob/c81dbb42a012f5f7e939174bed9603620adda7c0/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/3.%20Trabajo_con_listas.ipynb):
