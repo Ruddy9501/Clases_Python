@@ -16,7 +16,11 @@
     *  Cilco for y la clase range.
     *  Ciclo for y uso del break y continue.
     *  Ciclo for y sentencia else.
+    *  Sintaxis ciclo while.
+    *  Ciclo for y uso del break y continue.
+    *  Ciclo for y sentencia else.
     *  Ejercicios propuestos en HackerRank.
+
 
 3.  [Trabajo con listas](https://github.com/RuddyGuerrero/Clases_Python/blob/main/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/3.%20Trabajo_con_listas/3.%20Trabajo_con_listas.ipynb):
 
