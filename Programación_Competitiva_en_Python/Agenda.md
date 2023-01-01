@@ -1,7 +1,7 @@
 ### Agenda
 
 
-1.	[Números y operaciones aritméticas elementales](https://github.com/RuddyGuerrero/Clases_Python/blob/c81dbb42a012f5f7e939174bed9603620adda7c0/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/1.%20N%C3%BAmeros_y_operaciones_aritm%C3%A9ticas_elementales.ipynb)
+1.	[Números y operaciones aritméticas elementales](https://github.com/RuddyGuerrero/Clases_Python/Programaci%C3%B3n_Competitiva_en_Python/Lecciones/1.%20N%C3%BAmeros_y_operaciones_aritm%C3%A9ticas_elementales.ipynb)
 
     *  Cociente y resto de una división.
     *  Potencias y raíces.
