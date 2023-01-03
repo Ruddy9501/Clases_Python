@@ -30,7 +30,6 @@ int main(){
             pasos ++;
          }
 
-
          fprintf(out,"%lld", pasos);
 
          fclose(in);
